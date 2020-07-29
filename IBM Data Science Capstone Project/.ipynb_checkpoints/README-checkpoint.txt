@@ -1,0 +1,1 @@
+This directory contains all the files pertaining to the IBM Data Science Capstone Project.
