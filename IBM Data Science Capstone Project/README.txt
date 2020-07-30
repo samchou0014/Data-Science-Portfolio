@@ -1,1 +1,1 @@
-This directory contains all the files pertaining to the IBM Data Science Capstone Project.
+This directory contains all the files pertaining to the IBM Data Science Capstone Project. Further Project information can be found in "Project Introduction.ipynb"
